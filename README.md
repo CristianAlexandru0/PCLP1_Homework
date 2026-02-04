@@ -4,18 +4,15 @@
 * Grupa:   312CC                                                              *
 *******************************************************************************
 
-===============================================================================
   [ CUPRINS TEMA 1 ]
-===============================================================================
+  
   1. problema1.c - Criptarea parolelor: Cifrul Vigenere
   2. problema2.c - Completarea automata a datelor (AutoFill) 
   3. problema3.c - Generarea parolelor sigure
 ===============================================================================
 
-
--------------------------------------------------------------------------------
   [ PROBLEMA 1.C ]
--------------------------------------------------------------------------------
+  
   Durata de implementare: 2.5 ore
   Implementarea unui algoritm de criptare bazat pe Cifrul Vigenere
  
@@ -39,10 +36,8 @@
       se muta la dreapta ciclic litera din text cu lungimea returnata de lenght()
       se returnreaza sirul s2 codificat
 
-
--------------------------------------------------------------------------------
   [ PROBLEMA 2.C ]
--------------------------------------------------------------------------------
+
   Durata de implementare 3-3.5 ore
   Implementează funcționalitatea de AutoFill
       
@@ -75,10 +70,8 @@
       verifica daca parametrii din fata si din spatele cuvantului 
       sunt corespunzatori
 
-
--------------------------------------------------------------------------------
   [ PROBLEMA 3.C ]
--------------------------------------------------------------------------------
+
   Durata de implementare 4.5 ore
   Implementează un sistem de generare a parolelor pornind de la un seed 
   numeric și o lungime data
